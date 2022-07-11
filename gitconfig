@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nhumo@careloop.io
+	name = NhuMo Dang
